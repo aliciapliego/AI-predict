@@ -1,1 +1,1 @@
-# aipredict
+# AI-predict
